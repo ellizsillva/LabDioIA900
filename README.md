@@ -7,6 +7,7 @@ Entrega do desafio DIO - Trabalhando com Machine Leraning na Prática no Azure M
 ## Instruções (PT-BR)
 
 1- Entre no portal do Azure usando https://portal.azure.com e acesse com suas credenciais da Microsoft.
+
 2- Em "All Services" pesquise o serviço "Azure Machine Learning"
 
 ![image](https://github.com/ellizsillva/LabDioIA900/assets/155840444/94a4a97e-59eb-4d26-bdfb-a61fe606dbca)
@@ -18,7 +19,7 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 ![image](https://github.com/ellizsillva/LabDioIA900/assets/155840444/29e93e7b-1597-49f7-a4d2-472a0258ccbf)
 
 4- Selecione "Launch Studio" (uma nova guia do navegador será aberta). 
-Ou navegue para https://ml.azure.com e entre no Azure Machine Learning Studio usando sua conta da Microsoft). Feche todas as mensagens exibidas.
+Ou navegue para https://ml.azure.com e entre no Azure Machine Learning Studio usando sua conta da Microsoft. Feche todas as mensagens exibidas.
 
 ![image](https://github.com/ellizsillva/LabDioIA900/assets/155840444/6611d592-c74f-48de-8102-ff90ee4a905f)
 
@@ -43,8 +44,10 @@ Ou navegue para https://ml.azure.com e entre no Azure Machine Learning Studio us
 
 ![image](https://github.com/ellizsillva/LabDioIA900/assets/155840444/43870d6e-806d-4809-830e-d52361775e8a)
 
+### Teste o modelo implantado
+
 10 - Após modelo implantado com Sucesso, vá até o menu lateral esquerdo e selecione "Pontos de extremidades".
-Selecione o nome criado no passo 9. 
+Selecione o nome criado no passo 9.
 
 11- Vá para aba "Testar" e preencha os parametros para teste e clique em testar
 
