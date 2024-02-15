@@ -4,7 +4,7 @@
 
 Entrega do desafio DIO - Trabalhando com Machine Leraning na Prática no Azure ML
 
-## Intruções (PT-BR)
+## Instruções (PT-BR)
 
 1- Entre no portal do Azure usando https://portal.azure.com e acesse com suas credenciais da Microsoft.
 2- Em "All Services" pesquise o serviço "Azure Machine Learning"
